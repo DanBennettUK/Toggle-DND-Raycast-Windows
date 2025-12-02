@@ -1,15 +1,15 @@
 {
   "$schema": "https://www.raycast.com/schemas/extension.json",
   "name": "mute-notifications",
-  "title": "Toggle Notifications",
+  "title": "Toggle Do Not Disturb",
   "description": "Toggle Windows notifications on/off",
   "icon": "extension-icon.png",
   "license": "MIT",
   "commands": [
     {
       "name": "mute-notifications",
-      "title": "Toggle Notifications",
-      "subtitle": "🔇 Mute or 🔔 unmute",
+      "title": "Toggle Do Not Disturb",
+      "subtitle": "🔇 Mute or 🔔 Unmute",
       "description": "Toggle Windows notifications on or off",
       "mode": "no-view"
     }
