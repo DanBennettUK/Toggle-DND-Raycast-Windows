@@ -36,7 +36,7 @@ In order for the script to work without AutoHotkey, an Exe file is ran instead.
 This is purely the AHK file converted to an .EXE. However - **I highly recommend doing this yourself for security. You should never trust random .EXE files!**
 
 **AHK Code:**
-[! Do Not Disturb Autohotkey](toggle-focus-assist.ahk.png)
+![Do Not Disturb Autohotkey](toggle-focus-assist.ahk.png)
 
 ## Development
 
